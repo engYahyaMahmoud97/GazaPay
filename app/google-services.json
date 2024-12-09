@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220862673867",
+    "project_id": "gazapay-69628",
+    "storage_bucket": "gazapay-69628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220862673867:android:40feb90e79e48e088a7c4e",
+        "android_client_info": {
+          "package_name": "com.gazapay.gazapay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9mE_MmPt2BuxdkloroVWsxooPa4D_kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
